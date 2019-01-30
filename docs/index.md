@@ -1,5 +1,5 @@
 # Proposal
-[Proposal Writeup](15_400_Project_Proposal.pdf)
+[Proposal Writeup](15_400_Proposal.pdf)
 
 # Milestones
 [Milestone 1](15_300_Milestone_1.pdf)
