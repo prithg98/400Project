@@ -11,3 +11,5 @@
 [Milestone 4](15_400_Milestone_4.pdf)
 
 [Milestone 5](15_400_Milestone_5.pdf)
+
+[Milestone 6](15_400_Milestone_6.pdf)
